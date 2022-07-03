@@ -1,0 +1,5 @@
+User-agent: 
+Crawl-delay: 
+Disallow: 
+Allow: 
+Sitemap: http://Mihail-Ts/sitemap.xml
